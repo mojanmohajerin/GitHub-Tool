@@ -1,0 +1,11 @@
+{
+  "cSpell.words": ["squarekicker"],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "i18n-ally.enabledFrameworks": ["react"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.localesPaths": ["public/locales"],
+  "i18n-ally.usage.scanningIgnore": ["build/**"],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
